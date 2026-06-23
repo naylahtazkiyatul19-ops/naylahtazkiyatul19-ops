@@ -1,35 +1,26 @@
-# 👋 Hi, I'm Naylah Tazkiyatul Asna
+<!-- ─── HEADER BANNER ─── -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=32&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=700&height=80&lines=NAYLAH+TAZKIYATUL+ASNA;PROJECT+MANAGER+%E2%80%A2+UI%2FUX+DESIGNER;FUTURE+TECH+LEADER" alt="Typing SVG" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=6C63FF&width=435&lines=Project+Manager+Enthusiast;UI%2FUX+Design+Lover;Student+at+UMCirebon;Always+Learning+New+Things!)](https://git.io/typing-svg)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=180&section=header&text=HACKER+IN+PROGRESS&fontSize=30&fontColor=00FF41&animation=twinkling&fontAlignY=40" width="100%" />
+</p>
 
----
+<p align="center">
+  <code>⛧ SYSTEM INITIALIZING... ⛧</code>
+</p>
 
-## 🎓 About Me
+<br>
 
-I'm a **student** at **Universitas Muhammadiyah Cirebon (UMC)** with a strong passion for:
+<!-- ─── ABOUT ME ─── -->
+## 💻 ⚡ `$ whoami`
 
-- 📋 **Project Management** — Organizing teams, planning workflows, and delivering results
-- 🎨 **Design** — UI/UX design, branding, and creative visual solutions
-- 💻 **Technology** — Exploring how tech can solve real-world problems
-
-I love combining **creativity** and **structure** to bring ideas to life!
-
----
-
-## 🚀 What I'm Into
-
-| Role | Interest |
-|------|----------|
-| 📊 Project Manager | Planning, executing, and closing projects |
-| 🖌️ Designer | UI/UX, Figma, Canva, Visual Design |
-| 👩‍💻 Student | Learning new skills every day |
-
----
-
-## 🛠️ Tools & Skills
-
-```text
-📋 Project Management   → Agile, Scrum, Trello, Notion
-🎨 Design               → Figma, Canva, Adobe Photoshop
-💻 Tech                 → C#, SQL, HTML, CSS
-📊 Others               → Microsoft Office, Google Workspace
+```bash
+┌─────────────────────────────────────────────────────────────────┐
+│  NAME        : Naylah Tazkiyatul Asna                          │
+│  ROLE        : Project Manager • UI/UX Designer                │
+│  STATUS      : Student at Universitas Muhammadiyah Cirebon     │
+│  MISSION     : Building the future, one project at a time      │
+│  MINDSET     : Design meets execution                          │
+└─────────────────────────────────────────────────────────────────┘
